@@ -14,4 +14,10 @@
 - [[https://journals.openedition.org/traces/8499][Étudier les infrastructures pour ouvrir les boîtes noires politiques. Entretien avec Timothy Mitchell]]
 - [[https://journals.openedition.org/traces/8419][L’invisible qui façonne. Études d’infrastructure et gouvernance d’Internet]]
 - [[https://journals.openedition.org/traces/8171][Infrastructures, techniques et politiques]]
-
+- https://www.zdnet.fr/actualites/mark-shuttleworth-canonical-double-la-mise-sur-openstack-39884107.htm
+- https://www.zdnet.fr/actualites/github-se-voit-en-saint-patreon-de-l-open-source-39885077.htm
+- https://objectif-languedoc-roussillon.latribune.fr/innovation/innovation-technologique/2019-06-03/licensify-veut-endiguer-le-pillage-de-l-open-source-819193.html
+- https://www.zdnet.fr/blogs/l-esprit-libre/libre-et-open-source-express-chromium-linux-osimis-39885361.htm
+- https://open-source.developpez.com/actu/258078/L-open-source-souffre-t-il-d-un-probleme-du-travail-gratuit-Oui-selon-Havoc-Pennington/
+- https://open-source.developpez.com/actu/266068/Open-source-les-developpeurs-sont-ils-sous-finances-et-exploites-Oui-d-apres-le-createur-du-reseau-social-Manyverse/
+- https://objectif-languedoc-roussillon.latribune.fr/innovation/innovation-technologique/2019-06-03/licensify-veut-endiguer-le-pillage-de-l-open-source-819193.html

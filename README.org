@@ -29,7 +29,6 @@ challenges.  A work in progress.  Contributions are welcome.
 - [[http://dtrace.org/blogs/bmc/2004/08/28/the-economics-of-software/][The Economics of Software]] (Bryan Cantrill, August 2004)
 - [[https://sfosc.org/business-models/][FLOSS business models]] (Sustainable Free and Open Source
   Community, 2018)
-- [[https://www.linuxfoundation.org/press-release/2019/03/the-linux-foundation-launches-new-communitybridge-platform-to-help-sustain-open-source-communities/][Help Sustain Open Source Communities]] by the Linux Foundation
 - [[https://nadiaeghbal.com/licenses][Making money with licenses]] (Nadia Eghbal, March 2019)
 - [[https://www.linuxfoundation.org/open-source-management/2017/06/building-a-business-on-open-source/][Building a Business on Open Source]] (www.linuxfoundation.org, July 2017)
 - [[https://www.slideshare.net/stephenrwalli/there-is-no-open-source-business-model-78575010][Open Source Business Models Redux]] (Stephen Walli, 2017)
@@ -42,14 +41,14 @@ challenges.  A work in progress.  Contributions are welcome.
 - [[https://www.pcworld.com/article/203923/microsoft_we_love_open_source.html][Microsoft: 'We Love Open Source']] (www.pcworld.com August 2010)
 - [[https://lwn.net/Articles/783169/][Defining "sustainable" for an open-source project]]
 - [[https://blog.ludovic.org/xwiki/bin/view/Blog/FOSDEM2019%20and%20the%20challenge%20to%20finance%20Open%20Source][FOSDEM 2019 and the challenge to finance Open Source]]
-- [[https://archive.fosdem.org/2019/schedule/event/community_sustaining_foss_projects_democratizing_sponsorship/][Sustaining FOSS Projects By Democratizing The Sponsorship Process]]
+- [[https://changelog.com/news/sustaining-foss-projects-by-democratizing-the-sponsorship-process-Zqr2][Sustaining FOSS projects by democratizing the sponsorship process]] by adamstac, 2019
 
 * Sustainability
 
 ** Posts and articles
 
 - [[https://motherboard.vice.com/en_us/article/43zak3/the-internet-was-built-on-the-free-labor-of-open-source-developers-is-that-sustainable][The Internet Was Built on the Free Labor of Open Source
-  Developers. Is That Sustainable?]] by Daniel Oberhaus, Feb. 2019
+  Developers. Is That Sustainable?]] by Daniel Oberhaus, 2019
 - [[https://lwn.net/Articles/783169/][Defining "sustainable" for an open-source project]] by Jake Edge
 - [[https://github.blog/2019-01-17-lets-talk-about-open-source-sustainability/][Let’s talk about open source sustainability]] by Devon Zuegel, 2019
 - https://dieworkwear.com/post/182126040434/how-we-lost-our-ability-to-mend
@@ -57,29 +56,41 @@ challenges.  A work in progress.  Contributions are welcome.
   Nowogrodzki, 2019
 - [[http://esr.ibiblio.org/?p=8383][Load-Bearing Internet People]] by ESR, 2019
 - [[https://staltz.com/software-below-the-poverty-line.html][Software below the poverty line]] by André Staltz, 2019
-- https://nadiaeghbal.com/grant-programs
-- https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift
-- https://www.outreachy.org/
-- https://discourse.sustainoss.org/t/open-source-software-funding-platforms-registry/106
-- https://triplebyte.com/blog/creating-a-new-source-of-revenue-for-open-source-software
-- https://prototypefund.de/en/projects/
-- https://fundthecode.org
+- [[https://nadiaeghbal.com/grant-programs][Decentralized funding? An analysis of three programs]] by Nadia
+  Eghbal, 2018
+- [[https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift][$1m to pay open source maintainers on Tidelift]] by Donald Fischer, 2018
+- [[https://triplebyte.com/blog/creating-a-new-source-of-revenue-for-open-source-software][Creating a New Source of Revenue for Open Source Software]] by
+  Guillaume Luccisano, 2018
+- [[https://www.youtube.com/watch?v=z_q6nVeD_K4&feature=youtu.be&list=PLhYmIiHOMWoEgJEvgkmUe8D0agxy_T2vR][Heart of Clojure 2019 - Daniel Compton - Building Stable Foundations]]
+- [[https://www.wired.com/story/altruism-open-source-fuels-web-businesses-love-to-exploit-it/][Altruism Still Fuels the Web. Businesses Love to Exploit It]] by
+  Zeynep Tufekci, 2019
 
-** Conferences and groups
+** Conferences, groups, initiatives
 
 - https://sustainoss.org
-- https://www.piratecare.net/posts/call-for-papers/
 - http://themaintainers.org
 - https://maintainerati.org
+- https://www.outreachy.org
+- https://www.legacycode.rocks
+- https://prototypefund.de
+- https://www.piratecare.net/posts/call-for-papers/
+- [[https://fundthecode.org][fundthecode.org: events to finance FLOSS projects]] 
+- https://github.com/sponsors (and the [[https://github.blog/2019-06-12-faq-with-the-github-sponsors-team][FAQ]])
+- https://www.maintainersanonymous.com/
+- https://nadiaeghbal.com/microgrants
+- [[https://www.coreinfrastructure.org/][Linux Foundation Core Infrastructure Project]]
+- [[https://www.linuxfoundation.org/press-release/2019/03/the-linux-foundation-launches-new-communitybridge-platform-to-help-sustain-open-source-communities/][Help Sustain Open Source Communities]] by the Linux Foundation
 
 ** Generalist websites
 
-- https://oss.fund
+- [[https://oss.fund][oss.fund: Open Source Software Funding Platforms Registry]] (discussed
+  on [[https://discourse.sustainoss.org/t/open-source-software-funding-platforms-registry/106][discourse.sustainoss.org]])
 - [[https://sfosc.org][Sustainable Free and Open Source Communities]]
 
 * Infrastructure
 
-- Russell and Vinsel, "Making Maintainers: Engineering Education and the Ethics of Care" [[http://themaintainers.org/resources][preprint]].
+- Russell and Vinsel, "Making Maintainers: Engineering Education and
+  the Ethics of Care" [[http://themaintainers.org/resources][preprint]].
 - [[https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure][Roads and Bridges: The Unseen Labor Behind Our Digital
   Infrastructure]] by Nadia Eghbal, 2016
 - [[https://medium.com/s/story/exploiting-developer-infrastructure-is-insanely-easy-9849937e81d4][Exploiting Developer Infrastructure Is Ridiculously Easy]] by Jarrod
@@ -94,9 +105,17 @@ challenges.  A work in progress.  Contributions are welcome.
   Klabnik, 2018
 - [[https://arxiv.org/abs/1803.05741][Why We Engage in FLOSS: Answers from Core Developers]]
 - [[http://veridicalsystems.com/blog/of-money-responsibility-and-pride/][Of Money, Responsibility, and Pride]] by Steve Marquess
+- [[https://arxiv.org/abs/1904.09954][Why Software Projects need Heroes (Lessons Learned from 1100+ Projects)]]
+- [[https://medium.com/open-collective/what-core-contributors-want-4e7327ac9180][What Core Contributors Want]] by Alanna Irving, 2019
+- [[https://github.com/gorhill/uBlock/wiki/Why-don't-you-accept-donations%3F][Why don't you accept donations?]] by Raymond Hill, 2015
+- https://github.com/tootsuite/mastodon/issues/11129
+- [[https://publiclab.org/notes/gauravano/03-29-2019/software-community-growth-through-first-timers-only-issues][Software Community Growth through "first-timers-only" issues]] by
+  gauravano with warren, 2019 (also see [[https://www.firsttimersonly.com][firsttimersonly.com]])
+- [[https://www.youtube.com/watch?v=qTdJgpxkrhU][Finding your tribe - choosing open source communities]]
 
 * Related essays
 
+- [[https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source][The culture war at the heart of open source]] and [[https://words.steveklabnik.com/what-comes-after-open-source][What comes after open source?]]
 - [[https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960][The Origins of Opera and the Future of Programming]] by Jessica Kerr, 2018
 - [[https://sizovs.net/2019/02/15/the-principal-developer][The Principal Developer]] by Eduards Sizovs, 2019 ([[https://news.ycombinator.com/item?id=19192737][HN]])
 - [[https://ironholds.org/resources/papers/anarchist_hci.pdf]['Human-Computer Insurrection' (PDF)]]
@@ -105,56 +124,24 @@ challenges.  A work in progress.  Contributions are welcome.
 
 * Miscellaneous
 
-- https://www.digitalocean.com/currents/october-2018/
+- [[https://feross.org/funding-experiment-recap/][Recap of the `funding` experiment]] by Feross Aboukhadijeh, 2019
+- [[https://blog.licensezero.com/2019/08/26/but-you-said.html][But You Said I Could]] by licensezero, 2019
 - https://www.techrepublic.com/article/why-doesnt-anyone-weep-for-docker/
-- [[https://www.youtube.com/watch?v=z_q6nVeD_K4&feature=youtu.be&list=PLhYmIiHOMWoEgJEvgkmUe8D0agxy_T2vR][Heart of Clojure 2019 - Daniel Compton - Building Stable Foundations]]
-- https://feross.org/funding-experiment-recap/
-- https://blog.licensezero.com/2019/08/26/but-you-said.html
-- https://www.wired.com/story/altruism-open-source-fuels-web-businesses-love-to-exploit-it/
 - https://www.linuxjournal.com/content/episode-24-chat-about-redis-labs-podcast-transcript
 - https://armin.dev/blog/2019/08/supporting-browser-extension-developers/ (and [[https://news.ycombinator.com/item?id=20587440][HN]])
-- https://github.com/gorhill/uBlock/wiki/Why-don't-you-accept-donations%3F
-- https://staltz.com/software-below-the-poverty-line.html
-- https://changelog.com/news/sustaining-foss-projects-by-democratizing-the-sponsorship-process-Zqr2
 - https://discourse.sustainoss.org/t/next-steps-for-the-working-group/23 (see [[https://erlend-sh.github.io/ossgrants/][ossgrants]])
-- https://changelog.com/news/sustaining-foss-projects-by-democratizing-the-sponsorship-process-Zqr2
 - https://twitter.com/pradyunsg/status/1146454278174756864
-- https://github.blog/2019-06-12-faq-with-the-github-sponsors-team/?utm_source=announcement&utm_medium=email&utm_campaign=sponsors062819
-- https://objectif-languedoc-roussillon.latribune.fr/innovation/innovation-technologique/2019-06-03/licensify-veut-endiguer-le-pillage-de-l-open-source-819193.html
-- https://github.com/tootsuite/mastodon/issues/11129
-- https://open-source.developpez.com/actu/266068/Open-source-les-developpeurs-sont-ils-sous-finances-et-exploites-Oui-d-apres-le-createur-du-reseau-social-Manyverse/
 - https://twitter.com/ceejbot/status/1135125056487485440
-- https://staltz.com/software-below-the-poverty-line.html
 - https://www.nytimes.com/2019/06/11/magazine/letter-of-recommendation-bug-fixes-git.html
-- https://open-source.developpez.com/actu/258078/L-open-source-souffre-t-il-d-un-probleme-du-travail-gratuit-Oui-selon-Havoc-Pennington/
-- https://www.cockroachlabs.com/blog/oss-relicensing-cockroachdb/ (on
-  [[https://news.ycombinator.com/item?id=20097077][HN]] and [[https://www.theinformation.com/articles/cockroach-labs-stands-up-to-amazons-open-source-offensive?][theinformation.com]])
-- https://objectif-languedoc-roussillon.latribune.fr/innovation/innovation-technologique/2019-06-03/licensify-veut-endiguer-le-pillage-de-l-open-source-819193.html
-- https://www.zdnet.fr/blogs/l-esprit-libre/libre-et-open-source-express-chromium-linux-osimis-39885361.htm
-- https://medium.com/open-collective/what-core-contributors-want-4e7327ac9180
+- https://www.cockroachlabs.com/blog/oss-relicensing-cockroachdb/ (on [[https://news.ycombinator.com/item?id=20097077][HN]] and [[https://www.theinformation.com/articles/cockroach-labs-stands-up-to-amazons-open-source-offensive?][theinformation.com]])
 - https://increment.com/open-source/the-rise-of-few-maintainer-projects/
-- https://www.zdnet.fr/actualites/github-se-voit-en-saint-patreon-de-l-open-source-39885077.htm
-- https://ko-fi.com/
-- https://github.com/sponsors
 - https://utcc.utoronto.ca/~cks/space/blog/programming/GoIsGooglesLanguage
-- [[https://www.coreinfrastructure.org/][Linux Foundation Core Infrastructure Project]]
-- [[https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source][The culture war at the heart of open source]] and [[https://words.steveklabnik.com/what-comes-after-open-source][What comes after open source?]]
 - Python request episode : on [[https://twitter.com/dhh/status/1125184022311854085][Twitter]], [[https://vorpus.org/blog/why-im-not-collaborating-with-kenneth-reitz/][vorpus.org]] and [[http://journal.kennethreitz.org/entry/conspiracy][journal.kennethreitz.org]]
 - https://blog.ubuntu.com/2019/04/29/canonical-consolidates-open-infrastructure-support-and-security-offerings
-- https://www.zdnet.fr/actualites/mark-shuttleworth-canonical-double-la-mise-sur-openstack-39884107.htm
-- https://www.firsttimersonly.com/
-- https://publiclab.org/notes/gauravano/03-29-2019/software-community-growth-through-first-timers-only-issues
-- [[https://arxiv.org/abs/1904.09954][Why Software Projects need Heroes (Lessons Learned from 1100+ Projects)]]
-- [[https://www.youtube.com/watch?v=qTdJgpxkrhU][Finding your tribe - choosing open source communities]]
-- https://nadiaeghbal.com/microgrants
-- https://www.maintainersanonymous.com/
-- https://changelog.com/podcast/233
+- https://changelog.com/podcast/233 about Webpack
 - https://www.legacycode.rocks/podcast-1/episode/1c0e0b87/hail-the-maintainers-with-andrew-russell
 - https://aws.amazon.com/fr/blogs/opensource/keeping-open-source-open-open-distro-for-elasticsearch/
-- https://www.legacycode.rocks/
 - https://waypoint.vice.com/en_us/article/8xypb5/the-dwarf-fortress-creators-werent-in-it-for-money-but-now-they-need-it
 - [[https://www.vice.com/en_us/article/43zak3/the-internet-was-built-on-the-free-labor-of-open-source-developers-is-that-sustainable][Stepping stone history of FOSS assumptions, ethics, personalities & economics]]
-- Heart of Clojure - Money for Nothing: The past and future of funding OSS August 2nd in Leuven, Belgium
+- [[https://www.digitalocean.com/currents/october-2018/][A Seasonal Report on Developer Trends in the Cloud: Open Source Edition]]
 - Strange Loop - A Stitch in Time - The future of OSS Sustainability September 12-14 in St. Louis, Missouri, USA
-
-
