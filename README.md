@@ -1,5 +1,5 @@
 A list of resources to think about free software and open source
-challenges.  A work in progress.  Contributions are welcome.
+current challenges.  A work in progress.  Contributions are welcome!
 
 
 # Burn out
