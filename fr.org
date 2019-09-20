@@ -1,0 +1,17 @@
+#+title: Ressources non triées en français
+
+- https://www.journaldunet.com/solutions/cloud-computing/1422843-ces-editeurs-open-source-qui-entrent-en-resistance-face-a-amazon/
+- https://www.zdnet.fr/actualites/la-bataille-entre-vrai-open-source-et-faux-open-source-s-intensifie-39881007.htm
+- https://inno3.frama.io/tutoriel-communs-numeriques/02-Tutoriel/
+- https://www.lemagit.fr/actualites/252454152/LOpen-source-en-France-un-moteur-premier-pour-les-entreprises-mais-un-secteur-en-manque-de-resso
+- https://start.lesechos.fr/rejoindre-une-entreprise/actu-recrutement/open-source-un-ecosysteme-qui-recrutera-8-000-personnes-en-2019-13598.php
+- https://www.programmez.com/actualites/grande-enquete-2018-quelles-perspectives-pour-le-marche-du-travail-dans-lopen-source-28347?amp&__twitter_impression=true
+- https://www.techniques-ingenieur.fr/actualite/articles/lopen-source-une-alternative-economique-aux-editeurs-americains-61556/
+- https://www.cigref.fr/publication-open-source-une-alternative-aux-grands-fournisseurs-du-numerique
+- https://www.silicon.fr/open-source-metiers-tension-entreprises-227759.html?inf_by=5af71031671db8e2488b4bcd
+- [[https://journals.openedition.org/traces/8443][Prendre soin des infrastructures. Introduction à la traduction de « L’ethnographie des infrastructures » de Susan Leigh Star]]
+- [[https://journals.openedition.org/traces/8455][L’ethnographie des infrastructures]], Susan Leigh Star
+- [[https://journals.openedition.org/traces/8499][Étudier les infrastructures pour ouvrir les boîtes noires politiques. Entretien avec Timothy Mitchell]]
+- [[https://journals.openedition.org/traces/8419][L’invisible qui façonne. Études d’infrastructure et gouvernance d’Internet]]
+- [[https://journals.openedition.org/traces/8171][Infrastructures, techniques et politiques]]
+
