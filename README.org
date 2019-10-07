@@ -12,7 +12,7 @@ current challenges.  A work in progress.  Contributions are welcome!
   Understand?]] by Jacob Kaplan-Moss
 - [[https://www.youtube.com/watch?v=RbeHBnWfXUc][Avoiding Burnout, and other essentials of Open Source Self-Care]] by Kathleen Danielson
 
-** Blog posts and articles
+** Blog posts, articles and tweets
 
 - [[http://antirez.com/news/129][The struggles of an open source maintainer]] by http://antirez.com
 - [[https://blog.linuxmint.com/?p=3736][The Linux Mint Blog - Monthly News – March 2019]] (and in
@@ -21,6 +21,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 - [[https://www.techrepublic.com/article/why-open-source-developers-are-burning-out-no-respect/][Why open source developers are burning out: No respect]]
 - [[https://feaneron.com/2019/03/28/on-being-a-free-software-maintainer/][On Being a Free Software Maintainer]] by Georges Stavracas
 - [[https://opensource.com/business/16/5/5-rules-avoiding-burnout][5 rules for avoiding burnout]] by Jen Krieger
+- [[https://twitter.com/destroytoday/status/1180961725933338624][GitHub is really good at visualizing burnout]]
 
 * Business models
 
