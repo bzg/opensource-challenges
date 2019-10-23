@@ -107,8 +107,11 @@ current challenges.  A work in progress.  Contributions are welcome!
 -   [Every day, we rely on digital infrastructure built by volunteers. What happens when it fails?](https://www.fordfoundation.org/ideas/equals-change-blog/posts/every-day-we-rely-on-digital-infrastructure-built-by-volunteers-what-happens-when-it-fails/)
 
 
-# Ethics and motiviation
+# Ethics and motivation
 
+-   [Blood money is fine with us, says GitLab](https://www.theregister.co.uk/2019/10/16/gitlab_employees_gagged/), 2019
+-   [6 myths about “ethical” open source licenses](https://hackernoon.com/6-myths-about-ethical-open-source-licenses-3bfbd042b1dc), 2019
+-   [Why we need an Open Source Licence that considers the misuse of our code](https://hackernoon.com/why-we-need-an-open-source-licence-that-considers-the-misuse-of-our-code-8d19b65d425), 2019
 -   [Major Open Source Project Revokes Access to Companies That Work with
     ICE](https://motherboard.vice.com/en_us/article/8xbynx/major-open-source-project-revokes-access-to-companies-that-work-with-ice) by Daniel Oberhaus, 2018
 -   <https://words.steveklabnik.com/what-comes-after-open-source> by Steve
