@@ -87,6 +87,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 - [[https://oss.fund][oss.fund: Open Source Software Funding Platforms Registry]] (discussed
   on [[https://discourse.sustainoss.org/t/open-source-software-funding-platforms-registry/106][discourse.sustainoss.org]])
 - [[https://sfosc.org][Sustainable Free and Open Source Communities]]
+- [[http://unmaintained.tech][No Maintenance Intended]]
 
 * Infrastructure
 
