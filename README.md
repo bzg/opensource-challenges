@@ -13,7 +13,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 -   [Avoiding Burnout, and other essentials of Open Source Self-Care](https://www.youtube.com/watch?v=RbeHBnWfXUc) by Kathleen Danielson
 
 
-## Blog posts and articles
+## Blog posts, articles and tweets
 
 -   [The struggles of an open source maintainer](http://antirez.com/news/129) by <http://antirez.com>
 -   [The Linux Mint Blog - Monthly News – March 2019](https://blog.linuxmint.com/?p=3736) (and in
@@ -22,6 +22,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 -   [Why open source developers are burning out: No respect](https://www.techrepublic.com/article/why-open-source-developers-are-burning-out-no-respect/)
 -   [On Being a Free Software Maintainer](https://feaneron.com/2019/03/28/on-being-a-free-software-maintainer/) by Georges Stavracas
 -   [5 rules for avoiding burnout](https://opensource.com/business/16/5/5-rules-avoiding-burnout) by Jen Krieger
+-   [GitHub is really good at visualizing burnout](https://twitter.com/destroytoday/status/1180961725933338624)
 
 
 # Business models
@@ -92,6 +93,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 -   [oss.fund: Open Source Software Funding Platforms Registry](https://oss.fund) (discussed
     on [discourse.sustainoss.org](https://discourse.sustainoss.org/t/open-source-software-funding-platforms-registry/106))
 -   [Sustainable Free and Open Source Communities](https://sfosc.org)
+-   [No Maintenance Intended](http://unmaintained.tech)
 
 
 # Infrastructure
