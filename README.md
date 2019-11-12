@@ -23,6 +23,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 -   [On Being a Free Software Maintainer](https://feaneron.com/2019/03/28/on-being-a-free-software-maintainer/) by Georges Stavracas
 -   [5 rules for avoiding burnout](https://opensource.com/business/16/5/5-rules-avoiding-burnout) by Jen Krieger
 -   [GitHub is really good at visualizing burnout](https://twitter.com/destroytoday/status/1180961725933338624)
+-   [May the source be with EU](https://twitter.com/s_bergmann/status/1180801252957011968)
 
 
 # Business models
