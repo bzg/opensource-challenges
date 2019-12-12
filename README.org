@@ -25,6 +25,8 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 * Business models
 
+- [[https://techcrunch.com/2019/12/10/xscode-launches-subscription-platform-to-monetize-open-source-projects/][Xs:code launches subscription platform to monetize open-source
+  projects]] (Dec. 2019)
 - [[https://blog.sentry.io/2019/11/06/relicensing-sentry][Re-Licensing Sentry]] (Nov. 2019)
 - [[https://www.nber.org/papers/w7600][The Simple Economics of Open Source]] (www.nber.org, Josh Lerner, Jean
   Tirole, 2000)
