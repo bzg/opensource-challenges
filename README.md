@@ -114,6 +114,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 # Ethics and motivation
 
+-   [Invasion of The Ethical Licenses](https://perens.com/2019/10/12/invasion-of-the-ethical-licenses/), 2020
 -   [Blood money is fine with us, says GitLab](https://www.theregister.co.uk/2019/10/16/gitlab_employees_gagged/), 2019
 -   [6 myths about “ethical” open source licenses](https://hackernoon.com/6-myths-about-ethical-open-source-licenses-3bfbd042b1dc), 2019
 -   [Why we need an Open Source Licence that considers the misuse of our code](https://hackernoon.com/why-we-need-an-open-source-licence-that-considers-the-misuse-of-our-code-8d19b65d425), 2019
