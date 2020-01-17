@@ -2,7 +2,7 @@ A list of resources to think about free software and open source
 current challenges.  A work in progress.  Contributions are welcome!
 
 
-# Burn out
+# Burn out and/or quitting open source
 
 
 ## Talks
@@ -15,6 +15,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 ## Blog posts, articles and tweets
 
+-   <https://github.com/actix/actix-web> (and the [HN discussion](https://news.ycombinator.com/item?id=22073908))
 -   [The struggles of an open source maintainer](http://antirez.com/news/129) by <http://antirez.com>
 -   [The Linux Mint Blog - Monthly News – March 2019](https://blog.linuxmint.com/?p=3736) (and in
     [betanews.com](https://betanews.com/2019/04/01/linux-mint-depressed/))
@@ -23,7 +24,6 @@ current challenges.  A work in progress.  Contributions are welcome!
 -   [On Being a Free Software Maintainer](https://feaneron.com/2019/03/28/on-being-a-free-software-maintainer/) by Georges Stavracas
 -   [5 rules for avoiding burnout](https://opensource.com/business/16/5/5-rules-avoiding-burnout) by Jen Krieger
 -   [GitHub is really good at visualizing burnout](https://twitter.com/destroytoday/status/1180961725933338624)
--   [May the source be with EU](https://twitter.com/s_bergmann/status/1180801252957011968)
 
 
 # Business models
@@ -56,6 +56,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 ## Posts and articles
 
+-   [Don't fund Software that doesn't exist](https://peekaboo-vision.blogspot.com/2020/01/dont-fund-software-that-doesnt-exist.html) by Andreas Mueller, Jan. 2020
 -   [Theory: average bus factor = 1](https://anarc.at/blog/2019-10-16-bus-factor/) by anarcat, Nov. 2019
 -   [The Internet Relies on People Working for Free](https://onezero.medium.com/the-internet-relies-on-people-working-for-free-a79104a68bcc) by Owen Williams, Sept. 2019
 -   [The Internet Was Built on the Free Labor of Open Source
