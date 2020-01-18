@@ -14,7 +14,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 ** Blog posts, articles and tweets
 
-- https://github.com/actix/actix-web (and the [[https://news.ycombinator.com/item?id=22073908][HN discussion]])
+- [[https://github.com/actix/actix-web][actix-web post mortem]] (and the [[https://news.ycombinator.com/item?id=22073908][HN discussion]] and [[https://words.steveklabnik.com/a-sad-day-for-rust][this blog]])
 - [[http://antirez.com/news/129][The struggles of an open source maintainer]] by http://antirez.com
 - [[https://blog.linuxmint.com/?p=3736][The Linux Mint Blog - Monthly News – March 2019]] (and in
   [[https://betanews.com/2019/04/01/linux-mint-depressed/][betanews.com]])
