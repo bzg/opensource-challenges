@@ -7,7 +7,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 ** Talks
 
-- [[https://www.youtube.com/watch?v=o_4EX4dPppA][The Hard Parts of Open Source]] by Evan Czaplicki
+- [[https://www.youtube.com/watch?v=o_4EX4dPppA][The Hard Parts of Open Source]] by Evan Czaplicki (and [[https://gist.github.com/evancz/b29d1ce4166a557d03474278b2b44514][citations]])
 - [[https://www.youtube.com/watch?v=EqcuzSwySR4][Open Source & Feelings 2015 - What Part of "... for Life" Don't You
   Understand?]] by Jacob Kaplan-Moss
 - [[https://www.youtube.com/watch?v=RbeHBnWfXUc][Avoiding Burnout, and other essentials of Open Source Self-Care]] by Kathleen Danielson
@@ -52,6 +52,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 ** Posts and articles
 
+- [[https://don.goodman-wilson.com/posts/open-source-is-broken/][Open Source is Broken]] by Don Goodman-Wilson, Sept. 2019
 - [[https://peekaboo-vision.blogspot.com/2020/01/dont-fund-software-that-doesnt-exist.html][Don't fund Software that doesn't exist]] by Andreas Mueller, Jan. 2020
 - [[https://anarc.at/blog/2019-10-16-bus-factor/][Theory: average bus factor = 1]] by anarcat, Nov. 2019
 - [[https://onezero.medium.com/the-internet-relies-on-people-working-for-free-a79104a68bcc][The Internet Relies on People Working for Free]] by Owen Williams, Sept. 2019
