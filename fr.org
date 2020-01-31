@@ -1,5 +1,6 @@
 #+title: Ressources (non triées) en français
 
+- https://sgbd.developpez.com/actu/291300/Pourquoi-personne-ne-paie-pour-un-logiciel-de-base-de-donnees-open-source-Un-regard-sur-MongoDB-Redis-ElasticSearch-et-CockroachDB/
 - https://www.macg.co/aapl/2019/09/apple-membre-dune-fondation-pour-la-promotion-de-lopen-source-hollywood-108249
 - https://www.journaldunet.com/solutions/cloud-computing/1422843-ces-editeurs-open-source-qui-entrent-en-resistance-face-a-amazon/
 - https://www.zdnet.fr/actualites/la-bataille-entre-vrai-open-source-et-faux-open-source-s-intensifie-39881007.htm
