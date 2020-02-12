@@ -62,20 +62,21 @@ current challenges.  A work in progress.  Contributions are welcome!
 -   [The Internet Relies on People Working for Free](https://onezero.medium.com/the-internet-relies-on-people-working-for-free-a79104a68bcc) by Owen Williams, Sept. 2019
 -   [The Internet Was Built on the Free Labor of Open Source
     Developers. Is That Sustainable?](https://motherboard.vice.com/en_us/article/43zak3/the-internet-was-built-on-the-free-labor-of-open-source-developers-is-that-sustainable) by Daniel Oberhaus, 2019
--   [Defining "sustainable" for an open-source project](https://lwn.net/Articles/783169/) by Jake Edge
+-   [Defining "sustainable" for an open-source project](https://lwn.net/Articles/783169/) by Jake Edge, Mar. 2019
 -   [Let’s talk about open source sustainability](https://github.blog/2019-01-17-lets-talk-about-open-source-sustainability/) by Devon Zuegel, 2019
 -   <https://dieworkwear.com/post/182126040434/how-we-lost-our-ability-to-mend>
 -   [How to support open-source software and stay sane](https://www.nature.com/articles/d41586-019-02046-0) by Anna Nowogrodzki, 2019
 -   [Load-Bearing Internet People](http://esr.ibiblio.org/?p=8383) by ESR, 2019
 -   [Software below the poverty line](https://staltz.com/software-below-the-poverty-line.html) by André Staltz, 2019
+-   [Altruism Still Fuels the Web. Businesses Love to Exploit It](https://www.wired.com/story/altruism-open-source-fuels-web-businesses-love-to-exploit-it/) by
+    Zeynep Tufekci, 2019
 -   [We need Sustainable Free and Open Source Communities](https://medium.com/sustainable-free-and-open-source-communities/we-need-sustainable-free-and-open-source-communities-edf92723d619) by Adam Jacob, Dec. 2018
 -   [Decentralized funding? An analysis of three programs](https://nadiaeghbal.com/grant-programs) by Nadia Eghbal, 2018
 -   [$1m to pay open source maintainers on Tidelift](https://blog.tidelift.com/1m-to-pay-open-source-maintainers-on-tidelift) by Donald Fischer, 2018
 -   [Creating a New Source of Revenue for Open Source Software](https://triplebyte.com/blog/creating-a-new-source-of-revenue-for-open-source-software) by
     Guillaume Luccisano, 2018
 -   [Heart of Clojure 2019 - Daniel Compton - Building Stable Foundations](https://www.youtube.com/watch?v=z_q6nVeD_K4&feature=youtu.be&list=PLhYmIiHOMWoEgJEvgkmUe8D0agxy_T2vR)
--   [Altruism Still Fuels the Web. Businesses Love to Exploit It](https://www.wired.com/story/altruism-open-source-fuels-web-businesses-love-to-exploit-it/) by
-    Zeynep Tufekci, 2019
+-   [The End of Gmane?](https://lars.ingebrigtsen.no/2016/07/28/the-end-of-gmane/) by Lars Ingebrigtsen, Jul. 2016
 
 
 ## Conferences, groups, initiatives
