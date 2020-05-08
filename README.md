@@ -56,6 +56,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 ## Posts and articles
 
+-   [Open source can thrive in a recession says Drupal creator Dries Buytaert](https://www.techrepublic.com/article/open-source-can-thrive-in-a-recession-says-drupal-creator-dries-buytaert/), Itw of Dries Buytaert, creator of Drupal, May 2020
 -   [How’s That Open Source Governance Working for You?](https://hackernoon.com/hows-that-open-source-governance-working-for-you-mphv32ng), Nathan Schneider, Apr. 2020
 -   [Open Source is Broken](https://don.goodman-wilson.com/posts/open-source-is-broken/) by Don Goodman-Wilson, Sept. 2019
 -   [Don't fund Software that doesn't exist](https://peekaboo-vision.blogspot.com/2020/01/dont-fund-software-that-doesnt-exist.html) by Andreas Mueller, Jan. 2020
