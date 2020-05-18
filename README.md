@@ -17,8 +17,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 -   [actix-web post mortem](https://github.com/actix/actix-web) (and the [HN discussion](https://news.ycombinator.com/item?id=22073908) and [this blog](https://words.steveklabnik.com/a-sad-day-for-rust))
 -   [The struggles of an open source maintainer](http://antirez.com/news/129) by <http://antirez.com>
--   [The Linux Mint Blog - Monthly News – March 2019](https://blog.linuxmint.com/?p=3736) (and in
-    [betanews.com](https://betanews.com/2019/04/01/linux-mint-depressed/))
+-   [The Linux Mint Blog - Monthly News – March 2019](https://blog.linuxmint.com/?p=3736) (and in [betanews.com](https://betanews.com/2019/04/01/linux-mint-depressed/))
 -   [Give Away Your Code, But Never Your Time](http://wgross.net/essays/give-away-your-code-but-never-your-time) by William Gross
 -   [Why open source developers are burning out: No respect](https://www.techrepublic.com/article/why-open-source-developers-are-burning-out-no-respect/)
 -   [On Being a Free Software Maintainer](https://feaneron.com/2019/03/28/on-being-a-free-software-maintainer/) by Georges Stavracas
@@ -28,20 +27,17 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 # Business models
 
--   [Xs:code launches subscription platform to monetize open-source
-    projects](https://techcrunch.com/2019/12/10/xscode-launches-subscription-platform-to-monetize-open-source-projects/) (Dec. 2019)
+-   [Ask HN: Dear open source devs how do you sustain yourself](https://news.ycombinator.com/item?id=23218943) (May, 2020)
+-   [Xs:code launches subscription platform to monetize open-source projects](https://techcrunch.com/2019/12/10/xscode-launches-subscription-platform-to-monetize-open-source-projects/) (Dec. 2019)
 -   [Re-Licensing Sentry](https://blog.sentry.io/2019/11/06/relicensing-sentry) (Nov. 2019)
--   [The Simple Economics of Open Source](https://www.nber.org/papers/w7600) (www.nber.org, Josh Lerner, Jean
-    Tirole, 2000)
+-   [The Simple Economics of Open Source](https://www.nber.org/papers/w7600) (www.nber.org, Josh Lerner, Jean Tirole, 2000)
 -   [The Economics of Software](http://dtrace.org/blogs/bmc/2004/08/28/the-economics-of-software/) (Bryan Cantrill, August 2004)
--   [FLOSS business models](https://sfosc.org/business-models/) (Sustainable Free and Open Source
-    Community, 2018)
+-   [FLOSS business models](https://sfosc.org/business-models/) (Sustainable Free and Open Source Community, 2018)
 -   [Making money with licenses](https://nadiaeghbal.com/licenses) (Nadia Eghbal, March 2019)
 -   [Building a Business on Open Source](https://www.linuxfoundation.org/open-source-management/2017/06/building-a-business-on-open-source/) (www.linuxfoundation.org, July 2017)
 -   [Open Source Business Models Redux](https://www.slideshare.net/stephenrwalli/there-is-no-open-source-business-model-78575010) (Stephen Walli, 2017)
 -   [Building an Open Source Service](https://blog.sentry.io/2016/10/24/building-an-open-source-service.html) (David Cramer, blog.sentry.io, October 2016)
--   [AWS, MongoDB, and the Economic Realities of Open Source](https://stratechery.com/2019/aws-mongodb-and-the-economic-realities-of-open-source/) (Ben
-    Thompson, stratechery.com, January 2019)
+-   [AWS, MongoDB, and the Economic Realities of Open Source](https://stratechery.com/2019/aws-mongodb-and-the-economic-realities-of-open-source/) (Ben Thompson, stratechery.com, January 2019)
 -   [Open Source Confronts Its Midlife Crisis](http://dtrace.org/blogs/bmc/2018/12/14/open-source-confronts-its-midlife-crisis/) (Bryan Cantrill, December 2018)
 -   [A EULA in FOSS clothing?](http://dtrace.org/blogs/bmc/2018/12/16/a-eula-in-foss-clothing/) (Bryan Cantrill, December 2018)
 -   [An alternate ending to the tragedy of the commons](https://medium.com/@nayafia/an-alternate-ending-to-the-tragedy-of-the-commons-446b4e960887) (Nadia Eghbal, May 2018)
@@ -100,20 +96,16 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 ## Generalist websites
 
--   [oss.fund: Open Source Software Funding Platforms Registry](https://oss.fund) (discussed
-    on [discourse.sustainoss.org](https://discourse.sustainoss.org/t/open-source-software-funding-platforms-registry/106))
+-   [oss.fund: Open Source Software Funding Platforms Registry](https://oss.fund) (discussed on [discourse.sustainoss.org](https://discourse.sustainoss.org/t/open-source-software-funding-platforms-registry/106))
 -   [Sustainable Free and Open Source Communities](https://sfosc.org)
 -   [No Maintenance Intended](http://unmaintained.tech)
 
 
 # Infrastructure
 
--   Russell and Vinsel, "Making Maintainers: Engineering Education and
-    the Ethics of Care" [preprint](http://themaintainers.org/resources).
--   [Roads and Bridges: The Unseen Labor Behind Our Digital
-    Infrastructure](https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure) by Nadia Eghbal, 2016
--   [Exploiting Developer Infrastructure Is Ridiculously Easy](https://medium.com/s/story/exploiting-developer-infrastructure-is-insanely-easy-9849937e81d4) by Jarrod
-    Overson, 2018
+-   Russell and Vinsel, "Making Maintainers: Engineering Education and the Ethics of Care" [preprint](http://themaintainers.org/resources).
+-   [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure) by Nadia Eghbal, 2016
+-   [Exploiting Developer Infrastructure Is Ridiculously Easy](https://medium.com/s/story/exploiting-developer-infrastructure-is-insanely-easy-9849937e81d4) by Jarrod Overson, 2018
 -   [Every day, we rely on digital infrastructure built by volunteers. What happens when it fails?](https://www.fordfoundation.org/ideas/equals-change-blog/posts/every-day-we-rely-on-digital-infrastructure-built-by-volunteers-what-happens-when-it-fails/)
 
 
@@ -123,18 +115,15 @@ current challenges.  A work in progress.  Contributions are welcome!
 -   [Blood money is fine with us, says GitLab](https://www.theregister.co.uk/2019/10/16/gitlab_employees_gagged/), 2019
 -   [6 myths about “ethical” open source licenses](https://hackernoon.com/6-myths-about-ethical-open-source-licenses-3bfbd042b1dc), 2019
 -   [Why we need an Open Source Licence that considers the misuse of our code](https://hackernoon.com/why-we-need-an-open-source-licence-that-considers-the-misuse-of-our-code-8d19b65d425), 2019
--   [Major Open Source Project Revokes Access to Companies That Work with
-    ICE](https://motherboard.vice.com/en_us/article/8xbynx/major-open-source-project-revokes-access-to-companies-that-work-with-ice) by Daniel Oberhaus, 2018
--   <https://words.steveklabnik.com/what-comes-after-open-source> by Steve
-    Klabnik, 2018
+-   [Major Open Source Project Revokes Access to Companies That Work with ICE](https://motherboard.vice.com/en_us/article/8xbynx/major-open-source-project-revokes-access-to-companies-that-work-with-ice) by Daniel Oberhaus, 2018
+-   <https://words.steveklabnik.com/what-comes-after-open-source> by Steve Klabnik, 2018
 -   [Why We Engage in FLOSS: Answers from Core Developers](https://arxiv.org/abs/1803.05741)
 -   [Of Money, Responsibility, and Pride](http://veridicalsystems.com/blog/of-money-responsibility-and-pride/) by Steve Marquess
 -   [Why Software Projects need Heroes (Lessons Learned from 1100+ Projects)](https://arxiv.org/abs/1904.09954)
 -   [What Core Contributors Want](https://medium.com/open-collective/what-core-contributors-want-4e7327ac9180) by Alanna Irving, 2019
 -   [Why don't you accept donations?](https://github.com/gorhill/uBlock/wiki/Why-don't-you-accept-donations%3F) by Raymond Hill, 2015
 -   <https://github.com/tootsuite/mastodon/issues/11129>
--   [Software Community Growth through "first-timers-only" issues](https://publiclab.org/notes/gauravano/03-29-2019/software-community-growth-through-first-timers-only-issues) by
-    gauravano with warren, 2019 (also see [firsttimersonly.com](https://www.firsttimersonly.com))
+-   [Software Community Growth through "first-timers-only" issues](https://publiclab.org/notes/gauravano/03-29-2019/software-community-growth-through-first-timers-only-issues) by gauravano with warren, 2019 (also see [firsttimersonly.com](https://www.firsttimersonly.com))
 -   [Finding your tribe - choosing open source communities](https://www.youtube.com/watch?v=qTdJgpxkrhU)
 
 
