@@ -129,6 +129,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 # Related essays
 
+-   [The cult of the free must die](https://www.quirksmode.org/blog/archives/2020/08/the_cult_of_the.html) by Peter-Paul Koch, August 2020 ([HN](https://news.ycombinator.com/item?id=24141683))
 -   [The culture war at the heart of open source](https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source) and [What comes after open source?](https://words.steveklabnik.com/what-comes-after-open-source)
 -   [The Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960) by Jessica Kerr, 2018
 -   [The Principal Developer](https://sizovs.net/2019/02/15/the-principal-developer) by Eduards Sizovs, 2019 ([HN](https://news.ycombinator.com/item?id=19192737))
