@@ -130,9 +130,10 @@ current challenges.  A work in progress.  Contributions are welcome!
 # Related essays
 
 -   [The cult of the free must die](https://www.quirksmode.org/blog/archives/2020/08/the_cult_of_the.html) by Peter-Paul Koch, August 2020 ([HN](https://news.ycombinator.com/item?id=24141683))
+-   [The Principal Developer](https://sizovs.net/2019/02/15/the-principal-developer) by Eduards Sizovs, 2019 ([HN](https://news.ycombinator.com/item?id=19192737))
+-   <https://logicmag.io/failure/freedom-isnt-free/> by Wendy Liu, August 2018
 -   [The culture war at the heart of open source](https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source) and [What comes after open source?](https://words.steveklabnik.com/what-comes-after-open-source)
 -   [The Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960) by Jessica Kerr, 2018
--   [The Principal Developer](https://sizovs.net/2019/02/15/the-principal-developer) by Eduards Sizovs, 2019 ([HN](https://news.ycombinator.com/item?id=19192737))
 -   ['Human-Computer Insurrection' (PDF)](https://ironholds.org/resources/papers/anarchist_hci.pdf)
 -   [Shop Class as Soulcraft: An Inquiry Into the Value of Work (The Penguin Press, 2009)](http://www.matthewbcrawford.com/new-page-1-1-2)
 -   <https://media.libreplanet.org/u/libreplanet/m/right-to-repair-and-the-dmca/>
@@ -142,6 +143,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 -   [Recap of the \`funding\` experiment](https://feross.org/funding-experiment-recap/) by Feross Aboukhadijeh, 2019
 -   [But You Said I Could](https://blog.licensezero.com/2019/08/26/but-you-said.html) by licensezero, 2019
+-   [Open Source is Not Enough](https://notesfrombelow.org/article/open-source-is-not-enough) by [James Halliday](https://twitter.com/substack), May 2018
 -   <https://www.techrepublic.com/article/why-doesnt-anyone-weep-for-docker/>
 -   <https://www.linuxjournal.com/content/episode-24-chat-about-redis-labs-podcast-transcript>
 -   <https://armin.dev/blog/2019/08/supporting-browser-extension-developers/> (and [HN](https://news.ycombinator.com/item?id=20587440))

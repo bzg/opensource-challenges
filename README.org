@@ -121,9 +121,10 @@ current challenges.  A work in progress.  Contributions are welcome!
 * Related essays
 
 - [[https://www.quirksmode.org/blog/archives/2020/08/the_cult_of_the.html][The cult of the free must die]] by Peter-Paul Koch, August 2020 ([[https://news.ycombinator.com/item?id=24141683][HN]])
+- [[https://sizovs.net/2019/02/15/the-principal-developer][The Principal Developer]] by Eduards Sizovs, 2019 ([[https://news.ycombinator.com/item?id=19192737][HN]])
+- https://logicmag.io/failure/freedom-isnt-free/ by Wendy Liu, August 2018
 - [[https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source][The culture war at the heart of open source]] and [[https://words.steveklabnik.com/what-comes-after-open-source][What comes after open source?]]
 - [[https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960][The Origins of Opera and the Future of Programming]] by Jessica Kerr, 2018
-- [[https://sizovs.net/2019/02/15/the-principal-developer][The Principal Developer]] by Eduards Sizovs, 2019 ([[https://news.ycombinator.com/item?id=19192737][HN]])
 - [[https://ironholds.org/resources/papers/anarchist_hci.pdf]['Human-Computer Insurrection' (PDF)]]
 - [[http://www.matthewbcrawford.com/new-page-1-1-2][Shop Class as Soulcraft: An Inquiry Into the Value of Work (The Penguin Press, 2009)]]
 - https://media.libreplanet.org/u/libreplanet/m/right-to-repair-and-the-dmca/
@@ -132,6 +133,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 - [[https://feross.org/funding-experiment-recap/][Recap of the `funding` experiment]] by Feross Aboukhadijeh, 2019
 - [[https://blog.licensezero.com/2019/08/26/but-you-said.html][But You Said I Could]] by licensezero, 2019
+- [[https://notesfrombelow.org/article/open-source-is-not-enough][Open Source is Not Enough]] by [[https://twitter.com/substack][James Halliday]], May 2018
 - https://www.techrepublic.com/article/why-doesnt-anyone-weep-for-docker/
 - https://www.linuxjournal.com/content/episode-24-chat-about-redis-labs-podcast-transcript
 - https://armin.dev/blog/2019/08/supporting-browser-extension-developers/ (and [[https://news.ycombinator.com/item?id=20587440][HN]])
