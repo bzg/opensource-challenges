@@ -52,6 +52,8 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 ## Posts and articles
 
+-   [Scaling open source by creating potential](https://github.com/readme/david-nolen), by David Nolen, Oct. 2020
+-   [DigitalOcean's Hacktoberfest is Hurting Open Source](https://blog.domenic.me/hacktoberfest/), by Domenic Denicola, Sept. 2020
 -   [Open source can thrive in a recession says Drupal creator Dries Buytaert](https://www.techrepublic.com/article/open-source-can-thrive-in-a-recession-says-drupal-creator-dries-buytaert/), Itw of Dries Buytaert, creator of Drupal, May 2020
 -   [How’s That Open Source Governance Working for You?](https://hackernoon.com/hows-that-open-source-governance-working-for-you-mphv32ng), Nathan Schneider, Apr. 2020
 -   [Open Source is Broken](https://don.goodman-wilson.com/posts/open-source-is-broken/) by Don Goodman-Wilson, Sept. 2019
@@ -116,7 +118,6 @@ current challenges.  A work in progress.  Contributions are welcome!
 -   [6 myths about “ethical” open source licenses](https://hackernoon.com/6-myths-about-ethical-open-source-licenses-3bfbd042b1dc), 2019
 -   [Why we need an Open Source Licence that considers the misuse of our code](https://hackernoon.com/why-we-need-an-open-source-licence-that-considers-the-misuse-of-our-code-8d19b65d425), 2019
 -   [Major Open Source Project Revokes Access to Companies That Work with ICE](https://motherboard.vice.com/en_us/article/8xbynx/major-open-source-project-revokes-access-to-companies-that-work-with-ice) by Daniel Oberhaus, 2018
--   <https://words.steveklabnik.com/what-comes-after-open-source> by Steve Klabnik, 2018
 -   [Why We Engage in FLOSS: Answers from Core Developers](https://arxiv.org/abs/1803.05741)
 -   [Of Money, Responsibility, and Pride](http://veridicalsystems.com/blog/of-money-responsibility-and-pride/) by Steve Marquess
 -   [Why Software Projects need Heroes (Lessons Learned from 1100+ Projects)](https://arxiv.org/abs/1904.09954)
@@ -132,7 +133,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 -   [The cult of the free must die](https://www.quirksmode.org/blog/archives/2020/08/the_cult_of_the.html) by Peter-Paul Koch, August 2020 ([HN](https://news.ycombinator.com/item?id=24141683))
 -   [The Principal Developer](https://sizovs.net/2019/02/15/the-principal-developer) by Eduards Sizovs, 2019 ([HN](https://news.ycombinator.com/item?id=19192737))
 -   <https://logicmag.io/failure/freedom-isnt-free/> by Wendy Liu, August 2018
--   [The culture war at the heart of open source](https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source) and [What comes after open source?](https://words.steveklabnik.com/what-comes-after-open-source)
+-   [The culture war at the heart of open source](https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source) and [What comes after open source?](https://words.steveklabnik.com/what-comes-after-open-source), by Steve Klabnik, 2018
 -   [The Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960) by Jessica Kerr, 2018
 -   ['Human-Computer Insurrection' (PDF)](https://ironholds.org/resources/papers/anarchist_hci.pdf)
 -   [Shop Class as Soulcraft: An Inquiry Into the Value of Work (The Penguin Press, 2009)](http://www.matthewbcrawford.com/new-page-1-1-2)
