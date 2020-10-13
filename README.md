@@ -27,6 +27,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 # Business models
 
+-   [Open source licensing and why we're changing Plausible to the AGPL license](https://plausible.io/blog/open-source-licenses) (Oct., 2020) ([HN](https://news.ycombinator.com/item?id=24763734))
 -   [Ask HN: Dear open source devs how do you sustain yourself](https://news.ycombinator.com/item?id=23218943) (May, 2020)
 -   [Xs:code launches subscription platform to monetize open-source projects](https://techcrunch.com/2019/12/10/xscode-launches-subscription-platform-to-monetize-open-source-projects/) (Dec. 2019)
 -   [Re-Licensing Sentry](https://blog.sentry.io/2019/11/06/relicensing-sentry) (Nov. 2019)
