@@ -30,6 +30,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 -   [Open source licensing and why we're changing Plausible to the AGPL license](https://plausible.io/blog/open-source-licenses) (Oct., 2020) ([HN](https://news.ycombinator.com/item?id=24763734))
 -   [Ask HN: Dear open source devs how do you sustain yourself](https://news.ycombinator.com/item?id=23218943) (May, 2020)
 -   [Xs:code launches subscription platform to monetize open-source projects](https://techcrunch.com/2019/12/10/xscode-launches-subscription-platform-to-monetize-open-source-projects/) (Dec. 2019)
+-   [Balancing Makers and Takers to scale and sustain Open Source](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source) (Nov., 2019)
 -   [Re-Licensing Sentry](https://blog.sentry.io/2019/11/06/relicensing-sentry) (Nov. 2019)
 -   [The Simple Economics of Open Source](https://www.nber.org/papers/w7600) (www.nber.org, Josh Lerner, Jean Tirole, 2000)
 -   [The Economics of Software](http://dtrace.org/blogs/bmc/2004/08/28/the-economics-of-software/) (Bryan Cantrill, August 2004)
