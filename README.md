@@ -100,6 +100,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 ## Generalist websites
 
+-   [faiross.org](https://faiross.org)
 -   [oss.fund: Open Source Software Funding Platforms Registry](https://oss.fund) (discussed on [discourse.sustainoss.org](https://discourse.sustainoss.org/t/open-source-software-funding-platforms-registry/106))
 -   [Sustainable Free and Open Source Communities](https://sfosc.org)
 -   [No Maintenance Intended](http://unmaintained.tech)
