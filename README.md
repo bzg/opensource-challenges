@@ -145,6 +145,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 # Miscellaneous
 
+-   [No more free work from Marak - Pay Me or Fork This #1046](https://github.com/Marak/faker.js/issues/1046), Nov 2020
 -   [Recap of the \`funding\` experiment](https://feross.org/funding-experiment-recap/) by Feross Aboukhadijeh, 2019
 -   [But You Said I Could](https://blog.licensezero.com/2019/08/26/but-you-said.html) by licensezero, 2019
 -   [Open Source is Not Enough](https://notesfrombelow.org/article/open-source-is-not-enough) by [James Halliday](https://twitter.com/substack), May 2018
