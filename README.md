@@ -116,6 +116,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 # Ethics and motivation
 
+-   ["Open Source" Does Not Mean "Includes Free Support"](https://raccoon.onyxbits.de/blog/bugreport-free-support/), 2020
 -   [Invasion of The Ethical Licenses](https://perens.com/2019/10/12/invasion-of-the-ethical-licenses/), 2020
 -   [Blood money is fine with us, says GitLab](https://www.theregister.co.uk/2019/10/16/gitlab_employees_gagged/), 2019
 -   [6 myths about “ethical” open source licenses](https://hackernoon.com/6-myths-about-ethical-open-source-licenses-3bfbd042b1dc), 2019
