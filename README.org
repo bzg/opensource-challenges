@@ -25,6 +25,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 * Business models
 
+- [[https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b][Death of an Open Source Business Model]] (Dec. 2020) ([[https://news.ycombinator.com/item?id=25359897][HN]])
 - [[https://plausible.io/blog/open-source-licenses][Open source licensing and why we're changing Plausible to the AGPL license]] (Oct., 2020) ([[https://news.ycombinator.com/item?id=24763734][HN]])
 - [[https://news.ycombinator.com/item?id=23218943][Ask HN: Dear open source devs how do you sustain yourself]] (May, 2020)
 - [[https://techcrunch.com/2019/12/10/xscode-launches-subscription-platform-to-monetize-open-source-projects/][Xs:code launches subscription platform to monetize open-source projects]] (Dec. 2019)
