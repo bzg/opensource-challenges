@@ -1,5 +1,6 @@
 #+title: Ressources (non triées) en français
 
+- https://www.zdnet.fr/actualites/libreoffice-aux-entreprises-sortez-de-notre-version-communautaire-vous-nuisez-au-developpement-39917533.htm
 - https://www.lemondeinformatique.fr/actualites/lire-open-source-et-defense-les-liaisons-dangereuses-sur-fond-d-ethique-76658.html
 - https://sgbd.developpez.com/actu/291300/Pourquoi-personne-ne-paie-pour-un-logiciel-de-base-de-donnees-open-source-Un-regard-sur-MongoDB-Redis-ElasticSearch-et-CockroachDB/
 - https://www.macg.co/aapl/2019/09/apple-membre-dune-fondation-pour-la-promotion-de-lopen-source-hollywood-108249
