@@ -55,6 +55,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 ## Posts and articles
 
+-   [Does open source need its own Priority of Constituencies?](https://speaking.unlockopen.com/rfBLQk/does-open-source-need-its-own-priority-of-constituencies), Tobie Langel, 2021
 -   [Scaling open source by creating potential](https://github.com/readme/david-nolen), by David Nolen, Oct. 2020
 -   [DigitalOcean's Hacktoberfest is Hurting Open Source](https://blog.domenic.me/hacktoberfest/), by Domenic Denicola, Sept. 2020
 -   [Open source can thrive in a recession says Drupal creator Dries Buytaert](https://www.techrepublic.com/article/open-source-can-thrive-in-a-recession-says-drupal-creator-dries-buytaert/), Itw of Dries Buytaert, creator of Drupal, May 2020
