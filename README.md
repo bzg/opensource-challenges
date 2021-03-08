@@ -118,6 +118,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 # Ethics and motivation
 
+-   [Indigenous wisdom as a model for software design and development](https://foundation.mozilla.org/en/blog/indigenous-wisdom-model-software-design-and-development/), 2021
 -   ["Open Source" Does Not Mean "Includes Free Support"](https://raccoon.onyxbits.de/blog/bugreport-free-support/), 2020
 -   [Invasion of The Ethical Licenses](https://perens.com/2019/10/12/invasion-of-the-ethical-licenses/), 2020
 -   [Blood money is fine with us, says GitLab](https://www.theregister.co.uk/2019/10/16/gitlab_employees_gagged/), 2019
