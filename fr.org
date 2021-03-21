@@ -28,3 +28,4 @@
 - https://open-source.developpez.com/actu/258078/L-open-source-souffre-t-il-d-un-probleme-du-travail-gratuit-Oui-selon-Havoc-Pennington/
 - https://open-source.developpez.com/actu/266068/Open-source-les-developpeurs-sont-ils-sous-finances-et-exploites-Oui-d-apres-le-createur-du-reseau-social-Manyverse/
 - https://objectif-languedoc-roussillon.latribune.fr/innovation/innovation-technologique/2019-06-03/licensify-veut-endiguer-le-pillage-de-l-open-source-819193.html
+- https://bzg.fr/lettre-a-la-free-software-foundation.html
