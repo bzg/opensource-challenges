@@ -1,5 +1,6 @@
 #+title: Ressources (non triées) en français
 
+- https://nicolas.loeuillet.org/billets/service-wallabag-it
 - https://linuxfr.org/news/virevoltantes-valses-de-licences-libres-et-non-libres-dans-les-bases-de-donnees
 - https://startinblox.com/blog/index.php/fr/2021/03/09/cofinancement-dans-lopen-source-1/
 - https://philippe.scoffoni.net/logiciel-libre-sont-ils-issus-de-travaux-speculatifs/
