@@ -48,6 +48,8 @@ current challenges.  A work in progress.  Contributions are welcome!
 -   [Defining "sustainable" for an open-source project](https://lwn.net/Articles/783169/)
 -   [FOSDEM 2019 and the challenge to finance Open Source](https://blog.ludovic.org/xwiki/bin/view/Blog/FOSDEM2019%20and%20the%20challenge%20to%20finance%20Open%20Source)
 -   [Sustaining FOSS projects by democratizing the sponsorship process](https://changelog.com/news/sustaining-foss-projects-by-democratizing-the-sponsorship-process-Zqr2) by adamstac, 2019
+-   ["Should You Open Source Your Startup?" by Ben Awad](https://www.youtube.com/watch?v=YIL5fuAUPiA)
+-   [The Luck of Open Source](https://writing.kemitchell.com/2021/05/24/The-Luck-of-Open-Source.html) by Kyle E. Mitchell
 
 
 # Sustainability
