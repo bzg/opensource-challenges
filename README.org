@@ -25,29 +25,30 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 * Business models
 
+- [[https://www.youtube.com/watch?v=YIL5fuAUPiA]["Should You Open Source Your Startup?" by Ben Awad]] (May 2021)
+- [[https://writing.kemitchell.com/2021/05/24/The-Luck-of-Open-Source.html][The Luck of Open Source]] by Kyle E. Mitchell (May 2021)
 - [[https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b][Death of an Open Source Business Model]] (Dec. 2020) ([[https://news.ycombinator.com/item?id=25359897][HN]])
 - [[https://plausible.io/blog/open-source-licenses][Open source licensing and why we're changing Plausible to the AGPL license]] (Oct., 2020) ([[https://news.ycombinator.com/item?id=24763734][HN]])
 - [[https://news.ycombinator.com/item?id=23218943][Ask HN: Dear open source devs how do you sustain yourself]] (May, 2020)
 - [[https://techcrunch.com/2019/12/10/xscode-launches-subscription-platform-to-monetize-open-source-projects/][Xs:code launches subscription platform to monetize open-source projects]] (Dec. 2019)
 - [[https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source][Balancing Makers and Takers to scale and sustain Open Source]] (Nov., 2019)
 - [[https://blog.sentry.io/2019/11/06/relicensing-sentry][Re-Licensing Sentry]] (Nov. 2019)
-- [[https://www.nber.org/papers/w7600][The Simple Economics of Open Source]] (www.nber.org, Josh Lerner, Jean Tirole, 2000)
-- [[http://dtrace.org/blogs/bmc/2004/08/28/the-economics-of-software/][The Economics of Software]] (Bryan Cantrill, August 2004)
-- [[https://sfosc.org/business-models/][FLOSS business models]] (Sustainable Free and Open Source Community, 2018)
+- [[https://techcrunch.com/2019/05/30/lack-of-leadership-in-open-source-results-in-source-available-licenses/][Lack of leadership in open source results in source-available licenses]] (May 2019)
+- [[https://lwn.net/Articles/783169/][Defining "sustainable" for an open-source project]] (Mar. 2019)
+- [[https://blog.ludovic.org/xwiki/bin/view/Blog/FOSDEM2019%20and%20the%20challenge%20to%20finance%20Open%20Source][FOSDEM 2019 and the challenge to finance Open Source]] (2019)
+- [[https://changelog.com/news/sustaining-foss-projects-by-democratizing-the-sponsorship-process-Zqr2][Sustaining FOSS projects by democratizing the sponsorship process]] by adamstac, (2019)
 - [[https://nadiaeghbal.com/licenses][Making money with licenses]] (Nadia Eghbal, March 2019)
+- [[https://stratechery.com/2019/aws-mongodb-and-the-economic-realities-of-open-source/][AWS, MongoDB, and the Economic Realities of Open Source]] (Ben Thompson, stratechery.com, January 2019)
+- [[https://sfosc.org/business-models/][FLOSS business models]] (Sustainable Free and Open Source Community, 2018)
+- [[http://dtrace.org/blogs/bmc/2018/12/14/open-source-confronts-its-midlife-crisis/][Open Source Confronts Its Midlife Crisis]] (Bryan Cantrill, December 2018)
+- [[https://medium.com/@nayafia/an-alternate-ending-to-the-tragedy-of-the-commons-446b4e960887][An alternate ending to the tragedy of the commons]] (Nadia Eghbal, May 2018)
+- [[http://dtrace.org/blogs/bmc/2018/12/16/a-eula-in-foss-clothing/][A EULA in FOSS clothing?]] (Bryan Cantrill, December 2018)
 - [[https://www.linuxfoundation.org/open-source-management/2017/06/building-a-business-on-open-source/][Building a Business on Open Source]] (www.linuxfoundation.org, July 2017)
 - [[https://www.slideshare.net/stephenrwalli/there-is-no-open-source-business-model-78575010][Open Source Business Models Redux]] (Stephen Walli, 2017)
 - [[https://blog.sentry.io/2016/10/24/building-an-open-source-service.html][Building an Open Source Service]] (David Cramer, blog.sentry.io, October 2016)
-- [[https://stratechery.com/2019/aws-mongodb-and-the-economic-realities-of-open-source/][AWS, MongoDB, and the Economic Realities of Open Source]] (Ben Thompson, stratechery.com, January 2019)
-- [[http://dtrace.org/blogs/bmc/2018/12/14/open-source-confronts-its-midlife-crisis/][Open Source Confronts Its Midlife Crisis]] (Bryan Cantrill, December 2018)
-- [[http://dtrace.org/blogs/bmc/2018/12/16/a-eula-in-foss-clothing/][A EULA in FOSS clothing?]] (Bryan Cantrill, December 2018)
-- [[https://medium.com/@nayafia/an-alternate-ending-to-the-tragedy-of-the-commons-446b4e960887][An alternate ending to the tragedy of the commons]] (Nadia Eghbal, May 2018)
+- [[http://dtrace.org/blogs/bmc/2004/08/28/the-economics-of-software/][The Economics of Software]] (Bryan Cantrill, August 2004)
+- [[https://www.nber.org/papers/w7600][The Simple Economics of Open Source]] (www.nber.org, Josh Lerner, Jean Tirole, 2000)
 - [[https://www.pcworld.com/article/203923/microsoft_we_love_open_source.html][Microsoft: 'We Love Open Source']] (www.pcworld.com August 2010)
-- [[https://lwn.net/Articles/783169/][Defining "sustainable" for an open-source project]]
-- [[https://blog.ludovic.org/xwiki/bin/view/Blog/FOSDEM2019%20and%20the%20challenge%20to%20finance%20Open%20Source][FOSDEM 2019 and the challenge to finance Open Source]]
-- [[https://changelog.com/news/sustaining-foss-projects-by-democratizing-the-sponsorship-process-Zqr2][Sustaining FOSS projects by democratizing the sponsorship process]] by adamstac, 2019
-- [[https://www.youtube.com/watch?v=YIL5fuAUPiA]["Should You Open Source Your Startup?" by Ben Awad]]
-- [[https://writing.kemitchell.com/2021/05/24/The-Luck-of-Open-Source.html][The Luck of Open Source]] by Kyle E. Mitchell
 
 * Sustainability
 
