@@ -27,6 +27,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 # Business models
 
+-   [Full-Time Open Source With Andrew Kelley](https://corecursive.com/067-zig-with-andrew-kelley/) (August 2021)
 -   ["Should You Open Source Your Startup?" by Ben Awad](https://www.youtube.com/watch?v=YIL5fuAUPiA) (May 2021)
 -   [The Luck of Open Source](https://writing.kemitchell.com/2021/05/24/The-Luck-of-Open-Source.html) by Kyle E. Mitchell (May 2021)
 -   [Death of an Open Source Business Model](https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b) (Dec. 2020) ([HN](https://news.ycombinator.com/item?id=25359897))
