@@ -153,10 +153,12 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 # Miscellaneous
 
+-   [(ninth RacketCon): Governing Rust](https://www.youtube.com/watch?v=T1t4zGJYUuY), by Aaron Turon, 2021
 -   [No more free work from Marak - Pay Me or Fork This #1046](https://github.com/Marak/faker.js/issues/1046), Nov 2020
 -   [Recap of the \`funding\` experiment](https://feross.org/funding-experiment-recap/) by Feross Aboukhadijeh, 2019
 -   [But You Said I Could](https://blog.licensezero.com/2019/08/26/but-you-said.html) by licensezero, 2019
 -   [Open Source is Not Enough](https://notesfrombelow.org/article/open-source-is-not-enough) by [James Halliday](https://twitter.com/substack), May 2018
+-   [Maintainer vs. Community](https://medium.com/open-source-communities/maintainer-vs-community-97edc28387ad), by Mikeal Rogers, 2017
 -   <https://www.techrepublic.com/article/why-doesnt-anyone-weep-for-docker/>
 -   <https://www.linuxjournal.com/content/episode-24-chat-about-redis-labs-podcast-transcript>
 -   <https://armin.dev/blog/2019/08/supporting-browser-extension-developers/> (and [HN](https://news.ycombinator.com/item?id=20587440))
