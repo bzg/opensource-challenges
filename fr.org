@@ -1,5 +1,6 @@
 #+title: Ressources (non triées) en français
 
+- https://www.monde-diplomatique.fr/2022/01/MUSELLI_LAURE/64221
 - https://www.zdnet.fr/actualites/pourquoi-le-travail-acharne-et-la-faible-remuneration-stressent-les-mainteneurs-de-logiciels-libres-39924021.htm
 - https://nicolas.loeuillet.org/billets/service-wallabag-it
 - https://linuxfr.org/news/virevoltantes-valses-de-licences-libres-et-non-libres-dans-les-bases-de-donnees
