@@ -168,3 +168,8 @@ current challenges.  A work in progress.  Contributions are welcome!
 - [[https://www.vice.com/en_us/article/43zak3/the-internet-was-built-on-the-free-labor-of-open-source-developers-is-that-sustainable][Stepping stone history of FOSS assumptions, ethics, personalities & economics]]
 - [[https://www.digitalocean.com/currents/october-2018/][A Seasonal Report on Developer Trends in the Cloud: Open Source Edition]]
 - Strange Loop - A Stitch in Time - The future of OSS Sustainability September 12-14 in St. Louis, Missouri, USA
+  
+
+* French articles
+
+See [[file:fr.org][this file]].

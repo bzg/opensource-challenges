@@ -179,3 +179,8 @@ current challenges.  A work in progress.  Contributions are welcome!
 -   [A Seasonal Report on Developer Trends in the Cloud: Open Source Edition](https://www.digitalocean.com/currents/october-2018/)
 -   Strange Loop - A Stitch in Time - The future of OSS Sustainability September 12-14 in St. Louis, Missouri, USA
 
+
+# French articles
+
+See [this file](fr.md).
+
