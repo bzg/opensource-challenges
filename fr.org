@@ -1,5 +1,6 @@
 #+title: Ressources (non triées) en français
 
+- https://www.01net.com/actualites/au-bout-du-rouleau-un-developpeur-sabote-ses-logiciels-open-source-2053434.html/amp/
 - https://www.monde-diplomatique.fr/2022/01/MUSELLI_LAURE/64221
 - https://www.zdnet.fr/actualites/pourquoi-le-travail-acharne-et-la-faible-remuneration-stressent-les-mainteneurs-de-logiciels-libres-39924021.htm
 - https://nicolas.loeuillet.org/billets/service-wallabag-it
