@@ -15,6 +15,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 ## Blog posts, articles and tweets
 
+-   [Open source developer corrupts widely-used libraries, affecting tons of projects](https://www.theverge.com/2022/1/9/22874949/developer-corrupts-open-source-libraries-projects-affected) (theverge, Jan. 2022)
 -   [actix-web post mortem](https://github.com/actix/actix-web) (and the [HN discussion](https://news.ycombinator.com/item?id=22073908) and [this blog](https://words.steveklabnik.com/a-sad-day-for-rust))
 -   [The struggles of an open source maintainer](http://antirez.com/news/129) by <http://antirez.com>
 -   [The Linux Mint Blog - Monthly News – March 2019](https://blog.linuxmint.com/?p=3736) (and in [betanews.com](https://betanews.com/2019/04/01/linux-mint-depressed/))
