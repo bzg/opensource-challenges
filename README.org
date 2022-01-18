@@ -26,6 +26,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 * Business models
 
+- [[https://daniel.haxx.se/blog/2022/01/17/enforcing-the-pyramid-of-open-source/][Enforcing the pyramid of Open Source]] (January 2022)
 - [[https://corecursive.com/067-zig-with-andrew-kelley/][Full-Time Open Source With Andrew Kelley]] (August 2021)
 - [[https://www.youtube.com/watch?v=YIL5fuAUPiA]["Should You Open Source Your Startup?" by Ben Awad]] (May 2021)
 - [[https://writing.kemitchell.com/2021/05/24/The-Luck-of-Open-Source.html][The Luck of Open Source]] by Kyle E. Mitchell (May 2021)
