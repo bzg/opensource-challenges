@@ -151,6 +151,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 # Miscellaneous
 
+-   [The OSI celebrates maintainer month](https://blog.opensource.org/the-osi-celebrates-maintainer-month/), OSI, June 2021
 -   [(ninth RacketCon): Governing Rust](https://www.youtube.com/watch?v=T1t4zGJYUuY), by Aaron Turon, 2021
 -   [No more free work from Marak - Pay Me or Fork This #1046](https://github.com/Marak/faker.js/issues/1046), Nov 2020
 -   [Recap of the \`funding\` experiment](https://feross.org/funding-experiment-recap/) by Feross Aboukhadijeh, 2019
