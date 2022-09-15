@@ -27,14 +27,18 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 # Business models
 
--   
+-   [Why and how we raised VC funding for an open-source project](https://blog.tooljet.com/raising-vc-funding-for-open-source-project/) (January 2022)
+-   [Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company) (March 2022)
 -   [Enforcing the pyramid of Open Source](https://daniel.haxx.se/blog/2022/01/17/enforcing-the-pyramid-of-open-source/) (January 2022)
+-   [How to build an Open Source Business in 2021 (Part 1)](https://www.lunasec.io/docs/blog/how-to-build-an-open-source-business-in-2021-part-1/) (November 2021)
+-   [Open source has a funding problem](https://stackoverflow.blog/2021/01/07/open-source-has-a-funding-problem/) (January 2021)
 -   [Full-Time Open Source With Andrew Kelley](https://corecursive.com/067-zig-with-andrew-kelley/) (August 2021)
 -   ["Should You Open Source Your Startup?" by Ben Awad](https://www.youtube.com/watch?v=YIL5fuAUPiA) (May 2021)
 -   [The Luck of Open Source](https://writing.kemitchell.com/2021/05/24/The-Luck-of-Open-Source.html) by Kyle E. Mitchell (May 2021)
+-   [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding) (June 2020)
+-   [Ask HN: Dear open source devs how do you sustain yourself](https://news.ycombinator.com/item?id=23218943) (May, 2020)
 -   [Death of an Open Source Business Model](https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b) (Dec. 2020) ([HN](https://news.ycombinator.com/item?id=25359897))
 -   [Open source licensing and why we're changing Plausible to the AGPL license](https://plausible.io/blog/open-source-licenses) (Oct., 2020) ([HN](https://news.ycombinator.com/item?id=24763734))
--   [Ask HN: Dear open source devs how do you sustain yourself](https://news.ycombinator.com/item?id=23218943) (May, 2020)
 -   [Xs:code launches subscription platform to monetize open-source projects](https://techcrunch.com/2019/12/10/xscode-launches-subscription-platform-to-monetize-open-source-projects/) (Dec. 2019)
 -   [Balancing Makers and Takers to scale and sustain Open Source](https://dri.es/balancing-makers-and-takers-to-scale-and-sustain-open-source) (Nov., 2019)
 -   [Re-Licensing Sentry](https://blog.sentry.io/2019/11/06/relicensing-sentry) (Nov. 2019)
