@@ -27,6 +27,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 # Business models
 
+-   [Awesome Open Source Company](https://github.com/anhtho-lago/awesome-opensource-company) (GitHub repository, started in May 2022)
 -   [Why and how we raised VC funding for an open-source project](https://blog.tooljet.com/raising-vc-funding-for-open-source-project/) (January 2022)
 -   [Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company) (March 2022)
 -   [Enforcing the pyramid of Open Source](https://daniel.haxx.se/blog/2022/01/17/enforcing-the-pyramid-of-open-source/) (January 2022)
