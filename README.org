@@ -25,6 +25,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 * Business models
 
+- [[https://words.filippo.io/full-time-maintainer/][I’m Now a Full-Time Professional Open Source Maintainer]] (February 2023)
 - [[https://github.com/anhtho-lago/awesome-opensource-company][Awesome Open Source Company]] (GitHub repository, started in May 2022)
 - [[https://blog.tooljet.com/raising-vc-funding-for-open-source-project/][Why and how we raised VC funding for an open-source project]] (January 2022)
 - [[https://supabase.com/blog/should-i-open-source-my-company][Should I Open Source my Company?]] (March 2022)
