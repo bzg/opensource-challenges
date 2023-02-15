@@ -1,0 +1,34 @@
+-   <https://www.01net.com/actualites/au-bout-du-rouleau-un-developpeur-sabote-ses-logiciels-open-source-2053434.html/amp/>
+-   <https://www.monde-diplomatique.fr/2022/01/MUSELLI_LAURE/64221>
+-   <https://www.zdnet.fr/actualites/pourquoi-le-travail-acharne-et-la-faible-remuneration-stressent-les-mainteneurs-de-logiciels-libres-39924021.htm>
+-   <https://nicolas.loeuillet.org/billets/service-wallabag-it>
+-   <https://linuxfr.org/news/virevoltantes-valses-de-licences-libres-et-non-libres-dans-les-bases-de-donnees>
+-   <https://startinblox.com/blog/index.php/fr/2021/03/09/cofinancement-dans-lopen-source-1/>
+-   <https://philippe.scoffoni.net/logiciel-libre-sont-ils-issus-de-travaux-speculatifs/>
+-   <https://www.zdnet.fr/actualites/libreoffice-aux-entreprises-sortez-de-notre-version-communautaire-vous-nuisez-au-developpement-39917533.htm>
+-   <https://www.lemondeinformatique.fr/actualites/lire-open-source-et-defense-les-liaisons-dangereuses-sur-fond-d-ethique-76658.html>
+-   <https://sgbd.developpez.com/actu/291300/Pourquoi-personne-ne-paie-pour-un-logiciel-de-base-de-donnees-open-source-Un-regard-sur-MongoDB-Redis-ElasticSearch-et-CockroachDB/>
+-   <https://www.macg.co/aapl/2019/09/apple-membre-dune-fondation-pour-la-promotion-de-lopen-source-hollywood-108249>
+-   <https://www.journaldunet.com/solutions/cloud-computing/1422843-ces-editeurs-open-source-qui-entrent-en-resistance-face-a-amazon/>
+-   <https://www.zdnet.fr/actualites/la-bataille-entre-vrai-open-source-et-faux-open-source-s-intensifie-39881007.htm>
+-   <https://inno3.frama.io/tutoriel-communs-numeriques/02-Tutoriel/>
+-   <https://www.lemagit.fr/actualites/252454152/LOpen-source-en-France-un-moteur-premier-pour-les-entreprises-mais-un-secteur-en-manque-de-resso>
+-   <https://start.lesechos.fr/rejoindre-une-entreprise/actu-recrutement/open-source-un-ecosysteme-qui-recrutera-8-000-personnes-en-2019-13598.php>
+-   <https://www.programmez.com/actualites/grande-enquete-2018-quelles-perspectives-pour-le-marche-du-travail-dans-lopen-source-28347?amp&__twitter_impression=true>
+-   <https://www.techniques-ingenieur.fr/actualite/articles/lopen-source-une-alternative-economique-aux-editeurs-americains-61556/>
+-   <https://www.cigref.fr/publication-open-source-une-alternative-aux-grands-fournisseurs-du-numerique>
+-   <https://www.silicon.fr/open-source-metiers-tension-entreprises-227759.html?inf_by=5af71031671db8e2488b4bcd>
+-   [Prendre soin des infrastructures. Introduction à la traduction de « L’ethnographie des infrastructures » de Susan Leigh Star](https://journals.openedition.org/traces/8443)
+-   [L’ethnographie des infrastructures](https://journals.openedition.org/traces/8455), Susan Leigh Star
+-   [Étudier les infrastructures pour ouvrir les boîtes noires politiques. Entretien avec Timothy Mitchell](https://journals.openedition.org/traces/8499)
+-   [L’invisible qui façonne. Études d’infrastructure et gouvernance d’Internet](https://journals.openedition.org/traces/8419)
+-   [Infrastructures, techniques et politiques](https://journals.openedition.org/traces/8171)
+-   <https://www.zdnet.fr/actualites/mark-shuttleworth-canonical-double-la-mise-sur-openstack-39884107.htm>
+-   <https://www.zdnet.fr/actualites/github-se-voit-en-saint-patreon-de-l-open-source-39885077.htm>
+-   <https://objectif-languedoc-roussillon.latribune.fr/innovation/innovation-technologique/2019-06-03/licensify-veut-endiguer-le-pillage-de-l-open-source-819193.html>
+-   <https://www.zdnet.fr/blogs/l-esprit-libre/libre-et-open-source-express-chromium-linux-osimis-39885361.htm>
+-   <https://open-source.developpez.com/actu/258078/L-open-source-souffre-t-il-d-un-probleme-du-travail-gratuit-Oui-selon-Havoc-Pennington/>
+-   <https://open-source.developpez.com/actu/266068/Open-source-les-developpeurs-sont-ils-sous-finances-et-exploites-Oui-d-apres-le-createur-du-reseau-social-Manyverse/>
+-   <https://objectif-languedoc-roussillon.latribune.fr/innovation/innovation-technologique/2019-06-03/licensify-veut-endiguer-le-pillage-de-l-open-source-819193.html>
+-   <https://bzg.fr/lettre-a-la-free-software-foundation.html>
+
