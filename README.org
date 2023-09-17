@@ -63,6 +63,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 ** Posts and articles
 
+- [[https://blog.vaxry.net/articles/2023-maintainingFoss][Maintaining FOSS Projects Sucks]], Vaxry, 2023
 - [[https://speaking.unlockopen.com/rfBLQk/does-open-source-need-its-own-priority-of-constituencies][Does open source need its own Priority of Constituencies?]], Tobie Langel, 2021
 - [[https://github.com/readme/david-nolen][Scaling open source by creating potential]], by David Nolen, Oct. 2020
 - [[https://blog.domenic.me/hacktoberfest/][DigitalOcean's Hacktoberfest is Hurting Open Source]], by Domenic Denicola, Sept. 2020
