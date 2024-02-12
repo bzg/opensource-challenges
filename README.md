@@ -7,9 +7,10 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 ## Talks
 
--   [The Hard Parts of Open Source](https://www.youtube.com/watch?v=o_4EX4dPppA) by Evan Czaplicki (and [citations](https://gist.github.com/evancz/b29d1ce4166a557d03474278b2b44514))
--   [Open Source & Feelings 2015 - What Part of "&#x2026; for Life" Don't You Understand?](https://www.youtube.com/watch?v=EqcuzSwySR4) by Jacob Kaplan-Moss
--   [Avoiding Burnout, and other essentials of Open Source Self-Care](https://www.youtube.com/watch?v=RbeHBnWfXUc) by Kathleen Danielson
+-   [Open Source & Feelings 2015 - What Part of "&#x2026; for Life" Don't You Understand?](https://www.youtube.com/watch?v=EqcuzSwySR4) by Jacob Kaplan-Moss (2015)
+-   [Avoiding Burnout, and other essentials of Open Source Self-Care](https://www.youtube.com/watch?v=RbeHBnWfXUc) by Kathleen Danielson (2015)
+-   [The Hard Parts of Open Source](https://www.youtube.com/watch?v=o_4EX4dPppA) by Evan Czaplicki (and [citations](https://gist.github.com/evancz/b29d1ce4166a557d03474278b2b44514)) (2018)
+-   [Linus Torvalds addressing maintainer fatigue](https://www.youtube.com/watch?v=eWfUaFNSPhM) (2024)
 
 
 ## Blog posts, articles and tweets
