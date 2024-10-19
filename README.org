@@ -14,6 +14,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 ** Blog posts, articles and tweets
 
+- [[https://podcast.sustainoss.org/252][Nolan Lawson of PouchDB on what it feels like to be a maintainer]] (sustainoss.org, Oct. 2024)
 - [[https://www.theverge.com/2022/1/9/22874949/developer-corrupts-open-source-libraries-projects-affected][Open source developer corrupts widely-used libraries, affecting tons of projects]] (theverge, Jan. 2022)
 - [[https://github.com/actix/actix-web][actix-web post mortem]] (and the [[https://news.ycombinator.com/item?id=22073908][HN discussion]] and [[https://words.steveklabnik.com/a-sad-day-for-rust][this blog]])
 - [[http://antirez.com/news/129][The struggles of an open source maintainer]] by http://antirez.com
