@@ -29,6 +29,7 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 # Business models
 
+-   [Automattic is doing open source dirty](https://world.hey.com/dhh/automattic-is-doing-open-source-dirty-b95cf128) (October 2024)
 -   [The WordPress vs. WP Engine drama, explained](https://techcrunch.com/2024/10/20/wordpress-vs-wp-engine-drama-explained/) (October 2024)
 -   [I’m Now a Full-Time Professional Open Source Maintainer](https://words.filippo.io/full-time-maintainer/) (February 2023)
 -   [Awesome Open Source Company](https://github.com/anhtho-lago/awesome-opensource-company) (GitHub repository, started in May 2022)
