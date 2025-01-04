@@ -67,6 +67,8 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 ** Posts and articles
 
+- [[https://openpath.quest/2024/the-open-source-sustainability-crisis/][The Open Source Sustainability Crisis]], Chad Whitacre, 2024
+- [[https://opensauced.pizza/blog/when-open-source-maintainers-leave][The Silent Crisis in Open Source: When Maintainers Walk Away]], BekahHW, 2024
 - [[https://blog.vaxry.net/articles/2023-maintainingFoss][Maintaining FOSS Projects Sucks]], Vaxry, 2023
 - [[https://speaking.unlockopen.com/rfBLQk/does-open-source-need-its-own-priority-of-constituencies][Does open source need its own Priority of Constituencies?]], Tobie Langel, 2021
 - [[https://github.com/readme/david-nolen][Scaling open source by creating potential]], by David Nolen, Oct. 2020
