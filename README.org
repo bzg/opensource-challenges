@@ -154,6 +154,34 @@ current challenges.  A work in progress.  Contributions are welcome!
 - [[http://www.matthewbcrawford.com/new-page-1-1-2][Shop Class as Soulcraft: An Inquiry Into the Value of Work (The Penguin Press, 2009)]]
 - https://media.libreplanet.org/u/libreplanet/m/right-to-repair-and-the-dmca/
 
+* On maintenance in general
+
+I collected some resources from a discussion that happened on the
+mailing list of the [[https://themaintainers.org/][themaintainers.org]] project, Nov. 2017.
+
+- Chris Jones. /Routes of Power. Energy and Modern America/, 2016 ([[https://www.hup.harvard.edu/catalog.php?isbn=9780674970922&content=reviews][link]])
+- Julie Cohn. /The Grid, Biography of an American Technology/, 2017 ([[https://mitpress.mit.edu/books/grid][link]])
+- Jo Guldi. /Roads to Power, Britain Invents the Infrastructure State./ 2012 ([[https://www.hup.harvard.edu/catalog.php?isbn=9780674057593][link]])
+- Chris Wells. /Fueling the Boom: Gasoline Taxes, Invisibility, and the Growth of the American Highway Infrastructure, 1919-1956/ from the 2012 JAH special issue on oil. ([[https://academic.oup.com/jah/article/99/1/72/854562][link]])
+- Christopher W. Wells. /The Road to the Model T: Culture, Road Conditions, and Innovation at the Dawn of the American Motor Age/, Technology & Culture 48, no. 3 (July 2007), 497-523.
+- L. Freed, /Networks of (colonial) power: roads in French Central Africa after World War I/, History & Technology September 2010.
+- Christopher W. Wells. /The Changing Nature of Country Roads: Farmers, Reformers, and the Shifting Uses of Rural Space, 1880 – 1905/, Agricultural History 80, no. 2 (Spring 2006), 143-166.
+- Fernando Dominguez Rubio, /Preserving the unpreservable: docile and unruly objects at MoMA/ ([[https://link.springer.com/article/10.1007/s11186-014-9233-4][link]]) [Comment: "puts questions of care and maintenance at the center of sociological/philosophical concerns about cultural categories, social order, and ontology."]
+- Irani, Lilly. /Difference and Dependence among Digital Workers: The Case of Amazon Mechanical Turk/ ([[https://read.dukeupress.edu/south-atlantic-quarterly/article-abstract/114/1/225/3763/Difference-and-Dependence-among-Digital-Workers?redirectedFrom=fulltext][link]])
+- Carse, Ashley. /Nature as infrastructure: Making and managing the Panama Canal watershed/, Social Studies of Science 42, no. 4 (2012): 539-563.
+- Barnes, J. E. (2017). /States of maintenance: Power, politics, and Egypts irrigation infrastructure. Environment and Planning/, Society and Space, 35(1), 146-164.
+- Edensor, T. (2011). /Entangled agencies, material networks and repair in a building assemblage: The mutable stone of St Ann’s church, Manchester/, Transactions of the Institute of British Geographers, 36 (2), 238-252.
+- Gregson, N. (2011). /Performativity, corporeality and the politics of ship disposal/. Journal of Cultural Economy, 4(2), 137-156.
+- Rosner, D. K., & Ames, M. (2014). /Designing for repair?: Infrastructures and materialities of breakdown/. In Proceedings of the 17th ACM conference on computer supported cooperative work & social computing (pp. 319-331).
+- Erik van der Vleuten et al., /Europe’s System Builders: The Contested Shaping of Transnational Road, Electricity and Rail Networks/, Contemporary European History 16, no. 3 (August 2007): 321–47, ([[https://www.jstor.org/stable/20081365][link]])
+- Vincent Lagendijk and Frank Schipper, /Electrifying Europe/ and /Driving Europe/.
+- /Tensions of Europe/ network ([[https://www.tensionsofeurope.eu][link]]).
+- John May. /Infrastructuralism: The Pathology of Negative Externalities/ [Comment: argues that infrastructure’s solution to problems is always done by transferring them elsewhere] ([[https://quaderns.coac.net/en/2011/09/262-may/][link]])
+- Paul Edwards. /How fast can we transition to a low-carbon energy system/, 2015. ([[https://theconversation.com/how-fast-can-we-transition-to-a-low-carbon-energy-system-51018?utm_medium=email&utm_campaign=Latest+from+The+Conversation+for+November+23+2015+-+3863&utm_content=Latest+from+The+Conversation+for+November+23+2015+-+3863+CID_1959c4d454307098589b6275bcbc7f72&utm_source=campaign_monitor_us&utm_term=How%2520fast%2520can%2520we%2520transition%2520to%2520a%2520low-carbon%2520energy%2520system][link]])
+- Hillary Brown. /Next Generation Infrastructures/ ([[https://islandpress.org/book/next-generation-infrastructure][link]])
+- Timothy LeCains. /Mass Destruction: The Men and Giant Mines That Wired America and Scarred the Planet/ [Comment: "connects the early construction of electric grids in the US to the rise of large-scale, open pit copper mining"] ([[https://www.envirotechweb.org/2009/09/20/mass-destruction-book/][link]])
+- Wallsten, Björn. /The Urk World: Hibernating Infrastructures and the Quest for Urban Mining/, 2015 ([[https://www.diva-portal.org/smash/record.jsf?aq2=%255B%255B%255D%255D&c=1&af=%255B%255D&searchType=SIMPLE&query=the+urk+world&language=en&pid=diva2%253A872787&aq=%255B%255B%255D%255D&sf=all&aqe=%255B%255D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-5855][link]])
+
 * Miscellaneous
 
 - [[https://wiki.p2pfoundation.net/Category:Peerfunding][Peerfunding (p2pfoundation.net)]]
