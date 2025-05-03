@@ -184,6 +184,7 @@ mailing list of the [[https://themaintainers.org/][themaintainers.org]] project,
 
 * Miscellaneous
 
+- https://maintainermonth.github.com (new in 2025?)
 - [[https://opensourcemaintenancefee.org][opensourcemaintenancefee.org]], 2025, with [[https://robmensching.com/blog/posts/2025/02/26/introducing-the-open-source-maintenance-fee/][this announcement]]
 - [[https://wiki.p2pfoundation.net/Category:Peerfunding][Peerfunding (p2pfoundation.net)]]
 - [[https://blog.opensource.org/the-osi-celebrates-maintainer-month/][The OSI celebrates maintainer month]], OSI, June 2021
