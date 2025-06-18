@@ -146,6 +146,8 @@ current challenges.  A work in progress.  Contributions are welcome!
 
 * Related essays
 
+- [[https://opensourcepledge.com/blog/not-paying-open-source-maintainers-is-expensive/][Not Paying Open Source Maintainers Is Expensive]] by Vlad-Stefan Harbuz, June 2025
+- [[https://queue.acm.org/detail.cfm?id=3674985][The Expense of Unprotected Free Software]] by Poul-Henning Kamp, July 2024
 - [[https://www.quirksmode.org/blog/archives/2020/08/the_cult_of_the.html][The cult of the free must die]] by Peter-Paul Koch, August 2020 ([[https://news.ycombinator.com/item?id=24141683][HN]])
 - [[https://sizovs.net/2019/02/15/the-principal-developer][The Principal Developer]] by Eduards Sizovs, 2019 ([[https://news.ycombinator.com/item?id=19192737][HN]])
 - https://logicmag.io/failure/freedom-isnt-free/ by Wendy Liu, August 2018
